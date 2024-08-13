@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class hackerrank_string_introduction{
